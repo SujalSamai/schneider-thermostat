@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<thermostat>
+    <modbusWrite>01 06</modbusWrite>
+    <modbusRead>01 03</modbusRead>
+    <power>
+        <off>00 02 00 00</off>
+        <on>00 02 00 01</on>
+        <status>00 02 00 01</status>
+    </power>
+    <temperature>00 04
+        <set>00 04</set>
+        <status>00 04 00 01</status>
+    </temperature>
+    <mode>
+        <heat>00 03 00 02</heat>
+        <cool>00 03 00 01</cool>
+        <ventilation>00 03 00 03</ventilation>
+        <status>00 03 00 01</status>
+    </mode>
+    <fanSpeed>
+        <low>00 05 00 02</low>
+        <medium>00 05 00 01</medium>
+        <high>00 05 00 00</high>
+        <auto>00 05 00 03</auto>
+        <status>00 05 00 01</status>
+    </fanSpeed>
+</thermostat>

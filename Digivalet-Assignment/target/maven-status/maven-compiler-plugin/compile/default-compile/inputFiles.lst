@@ -1,0 +1,8 @@
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/main/Main.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/server/Server.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/server/SerialDeviceReader.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/client/Client.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/server/SerialDeviceWriter.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/config/Thermostat.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/server/ServerSocketHandler.java
+/home/sujalsami/workspace/schneider-thermostat/Digivalet-Assignment/src/main/java/com/digivalet/server/DevicePOJO.java
